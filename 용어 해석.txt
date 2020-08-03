@@ -1,0 +1,16 @@
+CSM	: 분당 평균 CS
+GPM	: 분당 평균 Gold
+KP%	: 평균 킬관여율
+DMG%	: 평균 데미지
+DPM	: 분당 데미지
+VSPM	: 시야 점수
+AVG WPM	: 분당 와드 갯수
+AVG WCPM	: 분당 와드제거 갯수
+AVG VWPM	: 분당 시야와드
+GD@15		: 15분 골드차이
+CSD@15		: 15분 CS차이
+XPD@15		: 15분 XP차이
+FB%		: 퍼스트블러드 비율
+FB VICTIM	: 퍼스트블러드 당한 비율
+PENTA KILLS	: 펜타킬 횟수
+SOLO KILLS	: 솔로킬 횟수
